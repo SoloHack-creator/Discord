@@ -1,0 +1,24 @@
+.message {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  color: white;
+  /* background-color: #2f3135; */
+}
+
+.message__avatar {
+  margin-right: 10px;
+}
+.message__info {
+  margin-left: 40px;
+}
+
+.message__timestamp {
+  color: gray;
+  margin-left: 20px;
+  font-size: x-small;
+}
+
+.message__displayName {
+  color: aqua;
+}
